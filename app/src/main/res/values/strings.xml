@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice101</string>
+    <string name="image_of_the_dice">Image of the Dice</string>
+    <string name="toss">Let Roll</string>
+    <string name="let_roll">Let Roll</string>
+    <string name="score">Score</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="about">About</string>
+    <string name="score_0">Player Score: %1$d\nComputer Score: %2$d</string>
+    <string name="wins">H:%1$d/C: %2$d</string>
+</resources>
